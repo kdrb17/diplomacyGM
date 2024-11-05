@@ -1,0 +1,76 @@
+provcode,provgp,provname,provtype,provsc
+ADR,NEU,Adriatic Sea,S,
+AEG,NEU,Aegean Sea,S,
+ALB,NEU,Albania,C,
+ANK,TUR,Ankara,C,Y
+APU,ITA,Apulia,C,
+ARM,TUR,Armenia,C,
+BAL,NEU,Baltic Sea,S,
+BAR,NEU,Barents Sea,S,
+BEL,NEU,Belgium,C,
+BER,GER,Berlin,C,Y
+BLA,NEU,Black Sea,S,
+BOH,AUS,Bohemia,L,
+BOT,NEU,Gulf of Bothnia,S,
+BRE,FRA,Brest,C,Y
+BUD,AUS,Budapest,L,Y
+BUL,NEU,Bulgaria,L,
+BUR,FRA,Burgundy,L,
+CLY,ENG,Clyde,C,
+CON,TUR,Constantinople,C,Y
+DEN,NEU,Denmark,C,
+ENG,NEU,English Channel,S,
+EDI,ENG,Edinburgh,C,Y
+EAS,NEU,Eastern Mediterranean,S,
+FIN,RUS,Finland,C,
+GAL,AUS,Galicia,L,
+GAS,FRA,Gascony,C,
+GRE,NEU,Greece,C,
+HEL,NEU,Heligoland Bight,S,
+HOL,NEU,Holland,C,
+ION,NEU,Ionian Sea,S,
+IRI,NEU,Irish Sea,S,
+KIE,GER,Kiel,C,Y
+LON,ENG,London,C,Y
+LVP,ENG,Liverpool,C,Y
+LVN,RUS,Livonia,C,
+GOL,NEU,Gulf of Lyons,S,
+MID,NEU,Mid Atlantic Ocean,S,
+MAR,FRA,Marseilles,C,Y
+MOS,RUS,Moscow,L,Y
+MUN,GER,Munich,L,Y
+NAF,NEU,North Africa,C,
+NAT,NEU,North Atlantic Ocean,S,
+NAP,ITA,Naples,C,Y
+NWY,NEU,Norway,C,
+NTH,NEU,North Sea,S,
+NRG,NEU,Norwegian Sea,C,
+PAR,FRA,Paris,L,Y
+PIC,FRA,Picardy,C,
+PIE,ITA,Piedmont,C,
+POR,NEU,Portugal,C,
+PRU,GER,Prussia,C,
+ROM,ITA,Rome,C,Y
+RUH,GER,Ruhr,L,
+RUM,NEU,Rumania,C,
+SER,NEU,Serbia,L,
+SEV,RUS,Sevastopol,C,Y
+SIL,GER,Silesia,L,
+SKA,NEU,Skagerrack,S,
+SMY,TUR,Smyrna,C,Y
+SPA,NEU,Spain,C,
+STP,RUS,St Petersburg,L/C,Y
+SWE,NEU,Sweden,C,
+SYR,TUR,Syria,C,
+TRI,AUS,Trieste,C,Y
+TUN,NEU,Tunis,C,
+TUS,ITA,Tuscany,C,
+TYR,AUS,Tyrolia,L,
+TYN,NEU,Tyrrhenian Sea,S,
+UKR,RUS,Ukraine,L,
+VEN,ITA,Venice,C,Y
+VIE,AUS,Vienna,L,Y
+WAL,ENG,Wales,C,
+WAR,RUS,Warsaw,L,Y
+WES,NEU,Western Mediterranean,S,
+YOR,ENG,Yorkshire,C,
