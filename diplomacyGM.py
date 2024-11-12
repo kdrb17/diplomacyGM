@@ -1,7 +1,7 @@
 def checkadj():
     for row2 in cur.execute("SELECT adjcode FROM adj WHERE adjcode = ?", (var4)):
         var5 = row2[0]
-        print("checkadj-ThisOrderIsValid:", var5)
+        print("checkadj-OrderIsValid", var5)
 
 import sqlite3
 con = sqlite3.connect("diplomacyGM.db")
