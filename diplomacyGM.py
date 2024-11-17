@@ -1,4 +1,4 @@
-def checkadj():
+def check_adj():
     for row2 in cur.execute("SELECT adjcode FROM adj WHERE adjcode = ?", (var4)):
         var5 = row2[0]
         print("checkadj-OrderIsValid", var5)
@@ -20,6 +20,6 @@ for row in records:
     print(var3)
     var4 = (var3,)
     print(var4)
-    checkadj()
+    check_adj()
 
 cur.close()
